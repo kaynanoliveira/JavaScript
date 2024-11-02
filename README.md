@@ -1,1 +1,1 @@
-# Tudo que estou aprendendo sobre JavaScript
+# Tudo que estou aprendendo em JavaScript
